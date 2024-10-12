@@ -18,16 +18,12 @@
    - ❌ No se permiten *Pendulum* ni *Link Monsters*.  
    - ✅ Se permiten *XYZ Monsters* con un límite de **1 invocación por turno**.
 
-3. **💥 Límite de Efectos de Monstruos**  
-   - Solo se puede activar **1 efecto de monstruo** por turno que destruya cartas.
-
 4. **📜 Límite de Cartas Boca Abajo**  
    - Máximo de **3 cartas boca abajo** en el campo.
 
 5. **🛡️ Compensación por Mecánicas Modernas**  
    - Los jugadores que utilicen *XYZ Monsters* empiezan con **6000 LP** en lugar de 8000.
 
----
 
 ## 🌟 **Objetivo de las Reglas**
 
@@ -35,7 +31,6 @@ Estas reglas están diseñadas para equilibrar las cartas modernas y clásicas, 
 
 ¡Prepárate para revivir tus mejores duelos! 🔥
 
----
 
 ## 💡 **Cómo Usar estas Reglas**
 
@@ -43,25 +38,21 @@ Estas reglas están diseñadas para equilibrar las cartas modernas y clásicas, 
 2. Usa cartas de tu colección de la tercera generación y anteriores.
 3. ¡Disfruta de un juego equilibrado y lleno de estrategia!
 
----
 
 ## 📸 **Galería de Ejemplos**
 
 ![Duelist Icon](https://example.com/imagen1.png)  
 ![Synchro Summon](https://example.com/imagen2.png)
 
----
 
 ## 📜 **Licencia**
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
 
----
 
 ## 👥 **Contribuciones**
 
 ¡Cualquier sugerencia para mejorar estas reglas es bienvenida! Siéntete libre de crear una *issue* o enviar un *pull request*.
 
----
 
-¡Que los duelos sean eternos! ⚔️🃏
+> #### ¡Que los duelos sean eternos! ⚔️🃏
