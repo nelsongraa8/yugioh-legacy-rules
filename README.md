@@ -12,7 +12,7 @@
 ## 🚩 **Reglas Principales**
 
 1. **🧙‍♂️ Restricción de Invocaciones Especiales**  
-   - Máximo **2 invocaciones especiales** por turno.
+   - Máximo **5 invocaciones especiales (maximo 3 del extra deck)** por turno.
    
 2. **⚔️ Prohibición de Mecánicas Modernas**  
    - ❌ No se permiten *Pendulum* ni *Link Monsters*.  
