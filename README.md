@@ -60,8 +60,9 @@ Estas reglas están diseñadas para equilibrar las cartas modernas y clásicas, 
 ## 💡 **Cómo Usar estas Reglas**
 
 1. Invita a tus amigos a una partida con estas nuevas reglas.
-2. Usa cartas de tu colección de la tercera generación y anteriores.
+2. Usa cartas de cualquier generacion, *Te aseguramos que esos mazos nuevosrarisimos ya no pareceran trampa*.
 3. ¡Disfruta de un juego equilibrado y lleno de estrategia!
+4. 🧪 Usa **EdoPro** para simular duelos entre diferentes mazos y experimentar estas reglas en acción.
 
 ## 📸 **Galería de Ejemplos**
 
