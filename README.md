@@ -1,7 +1,7 @@
 
-## ⚡️🎴 Yu-Gi-Oh! Legacy Rules 🎴⚡️  
+# ⚡️🎴 Yu-Gi-Oh! Legacy Rules 🎴⚡️
 
->#### ✨ Reglas Clásicas & Personalizadas para Duelos Épicos ✨
+> ## ✨ Reglas Clásicas & Personalizadas para Duelos Épicos ✨
 
 ¡Bienvenido a **YuGiOh Legacy Rules**, un conjunto de reglas nostálgicas para jugar *Yu-Gi-Oh!* con un enfoque clásico! Basadas en la era de *Synchro* y anteriores, estas reglas buscan crear un equilibrio entre cartas antiguas y nuevas mediante principios de teoría de juegos.
 
@@ -11,18 +11,23 @@
 
 ## 🚩 **Reglas Principales**
 
-1. **🧙‍♂️ Restricción de Invocaciones Especiales**  
-   - Máximo **5 invocaciones especiales (maximo 3 del extra deck)** por turno.
-
-2. **⚔️ Prohibición de Mecánicas Modernas**  
+1. **⚔️ Prohibición de Mecánicas Modernas**  
    - ❌ No se permiten *Pendulum* ni *Link Monsters*.  
    - ✅ Se permiten *XYZ Monsters* con un límite de **1 invocación por turno**.
 
-3. **📜 Límite de Cartas Boca Abajo**
+2. **📜 Límite de Cartas Boca Abajo**
    - Máximo de **3 cartas boca abajo** en el campo.
 
-4. **🛡️ Compensación por Mecánicas Modernas**  
+3. **🛡️ Compensación por Mecánicas Modernas**  
    - Los jugadores que utilicen *XYZ Monsters* empiezan con **6000 LP** en lugar de 8000.
+   - No se puede hacer **XZY Summon** con materiales que hayan sido convocados especialmente
+
+4. **🛡️ Se puede tener solo una magia de campo en el juego**
+   - Si se juega un campo elimina el que estaba anteriormente.
+
+5. **🛡️Restricciones del Extra Deck**
+   - Solo se pueden tener en el ExtraDeck 2 *XZY Monsters*.
+   - El ExtraDeck se amplia a un limite de 25 cartas.
 
 ## 🔥 **Sistema de Maná**
 
